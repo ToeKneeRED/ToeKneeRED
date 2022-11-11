@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ToeKneeRED
-- 👀 I’m interested in video game development
+- 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C#, C++
 
 <!---
