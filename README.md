@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ToeKneeRED
+- 👋 Hi, I’m @ToeKneeRED / Anthony
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C#, C++
 
